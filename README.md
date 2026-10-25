@@ -40,7 +40,7 @@
 
 1. Clone repository ini:
    ```bash
-  git clone https://github.com/Devid-Winata/StormyApp.git
+   git clone https://github.com/Devid-Winata/StormyApp.git
    ```
 2. Buka folder project di **Android Studio**.
 3. Tunggu proses *Gradle Sync* selesai (tidak memerlukan API Key berbayar).
